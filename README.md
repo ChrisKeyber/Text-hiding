@@ -1,4 +1,9 @@
 # Text-hiding
 Hide text in an image
 
-The following tutorial is the tutorial of how to use it
+Tutorial
+----------------
+
+Download here
+-----------------
+https://github.com/ChrisKeyber/Text-hiding/raw/main/Hide.exe
